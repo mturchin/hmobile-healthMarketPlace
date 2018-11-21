@@ -6,7 +6,7 @@ The whole application won the hackathon 2018 conducted by T-Mobile 2018
 
 You can use Visual Studio 2017 to compile this project.
 
-Swagger implementation is already there. <root url>/swagger 
+Swagger implementation is already there. You can navigate using <root url>/swagger. 
 You may need to run Install-Package Swashbuckle.AspNetCore.Swagger -Version 4.0.1 from Packager Console.
 
 The database script "hackathon-health-DB-DBScript.sql" can be used to create a SQL database. This can be installed in SQL Azure or SQL Server Standard.
