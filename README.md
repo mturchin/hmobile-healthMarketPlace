@@ -2,7 +2,8 @@ This is a web api built on ASP.Net core.
 The project is the WebAPI to h-mobile posted here https://github.com/raynman1/hmobile. The whole application won the hackathon 2018 conducted by T-Mobile 2018
 #Hacksgiving #tmobile
 
-You can use Visual Studio 2017 to compile this 
+You can use Visual Studio 2017 to compile this.
+ 
 Swagger implementation is already there. <root url>/swagger 
 You may need to run Install-Package Swashbuckle.AspNetCore.Swagger -Version 4.0.1 from Packager Console.
 
