@@ -1,0 +1,22 @@
+This is a web api built on ASP.Net core. 
+The project is the WebAPI to h-mobile posted here https://github.com/raynman1/hmobile. The whole application won the hackathon 2018 conducted by T-Mobile 2018
+#Hacksgiving #tmobile
+
+You can use Visual Studio 2017 to compile this 
+Swagger implementation is already there. <root url>/swagger 
+You may need to run Install-Package Swashbuckle.AspNetCore.Swagger -Version 4.0.1 from Packager Console.
+
+The database script "hackathon-health-DB-DBScript.sql" can be used to create a SQL database. This can be installed in SQL Azure or SQL Server Standard.
+The webapi is recommended to be published to Azure as an App Service
+
+Startup.cs will have a simple implementation of dependency injection, Cors enabling, swagger and DB context.
+You will see the usage of the Entity framework and basic Linq query.
+
+Tools and Languages
+ASP .NET core 
+C#
+SQL Azure database
+Swagger
+Entity Framework
+Publish:
+Microsoft Azure App Service
