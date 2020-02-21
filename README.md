@@ -1,5 +1,5 @@
 A webapi built on ASP.Net core and hosted as Azure App Service. 
-Also containarized with docker and Kubernetes orchastration 
+Also containarized with docker and Kubernetes orchestration 
  
 The webapi is used by the h-mobile app posted here https://github.com/raynman1/hmobile. 
 The whole application won second place in hackathon 2018 conducted by T-Mobile 2018
