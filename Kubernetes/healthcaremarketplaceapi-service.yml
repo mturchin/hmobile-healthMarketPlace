@@ -6,6 +6,7 @@ metadata:
     name: healthcaremarketplaceapi-service
     app: hmobile-app
 spec:
+  type: LoadBalancer
   selector:
     name: healthcaremarketplaceapi-pod
     app: hmobile-app
